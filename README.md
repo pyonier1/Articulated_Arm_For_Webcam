@@ -5,7 +5,7 @@ Articulated Arm made for mounting and moving a webcam for better recording angle
 This articulated arm is made to be printed and assembled using easy to acquire hardware, and is meant for mounting of a webcam or any other small form camera (Like a GoPro) for easy camera movement and scene capturing.
 I made it to be compatible with regular webcams, but anyone downloading this is free to Remix it and modify it to either make it stronger to support heavier cameras, or make different mounts for other cameras.
 
-![Screenshot of the Articulated arm](https://github.com/pyonier1/Articulated_Arm_For_Webcam/blob/main/20260211-2301-47.8937736.mp4)
+![Screenshot of the Articulated arm](https://github.com/pyonier1/Articulated_Arm_For_Webcam/blob/main/20260211-2301-47.8937736.gif)
 
 ## Breakdown of the Articulated arm
 ### Mounting Base
